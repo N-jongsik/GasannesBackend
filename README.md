@@ -2,8 +2,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://github.com/N-jongsik/DailyPuppyMomentsBackend/blob/main/DPM%20logo.png"/>
-  <br><br>
+  <img src="https://github.com/N-jongsik/MovieReviewBackend/blob/main/가산느%20로고.png"/>
   현대오토에버 모빌리티 SW 스쿨 1기(웹&앱) 과정에서 진행한 팀 프로젝트입니다.
 </p>
 
